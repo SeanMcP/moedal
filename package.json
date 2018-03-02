@@ -1,0 +1,39 @@
+{
+  "name": "moedal",
+  "version": "1.0.0",
+  "description": "A simple, self-contained Modal for React",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seanmcp/moedal.git"
+  },
+  "keywords": [
+    "React",
+    "Modal"
+  ],
+  "author": "Sean McPherson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmcp/moedal/issues"
+  },
+  "homepage": "https://github.com/seanmcp/moedal#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
